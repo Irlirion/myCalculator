@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5584c13a-7fcc-4d54-929a-149327c7c68c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V4PNaxFOnN2KOdTGx5UDfBSeEI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Calculator/out/artifacts/unnamed/unnamed.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="myCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5584c13a-7fcc-4d54-929a-149327c7c68c" name="Default Changelist" comment="" />
+      <created>1576509354168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576509354168</updated>
+      <workItem from="1576509359490" duration="2621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="178" key="#Web_Browsers" timestamp="1576512088472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="178" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1576512088472" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1576512505911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576512505911" />
+    <state x="1154" y="235" key="DetectedRootsChooserDialog" timestamp="1576509518388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1154" y="235" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576509518388" />
+    <state x="1106" y="261" key="FileChooserDialogImpl" timestamp="1576510940485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1106" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576510940485" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1576512453769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576512453769" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1576512453769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576512453769" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1576512453768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576512453768" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1576512453769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576512453769" />
+    <state x="970" y="174" key="Maven.ArtifactSearchDialog" timestamp="1576511024792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="970" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576511024792" />
+    <state x="880" y="94" key="SettingsEditor" timestamp="1576511750270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576511750270" />
+    <state x="1104" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576510925472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1576510925472" />
+  </component>
+</project>
